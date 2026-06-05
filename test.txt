@@ -1,0 +1,2 @@
+C programming provides built-in support to create, read, write and append data to file. To perform any operation on file we use a built-in FILE structure. You need to create pointer to FILE type. The pointer to FILE type will hold a logical reference to our physically existed file on disk (hard disk).
+	Write a C program to create a file and write contents in it. How to create a file in C programming? C program to input a string from user and store it in a text file. Learn how to create a file and write contents to it in C programming.

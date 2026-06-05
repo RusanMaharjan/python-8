@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "Bob",
+        "Age": 30,
+        "Address": "Kathmandu",
+        "Qualification": "Bachelors"
+    },
+    {
+        "Name": "Charles",
+        "Age": 40,
+        "Address": "Lalitpur",
+        "Qualification": "Masters"
+    },
+    {
+        "Name": "Bill",
+        "Age": 20,
+        "Address": "Bhaktapur",
+        "Qualification": "High School"
+    }
+]
